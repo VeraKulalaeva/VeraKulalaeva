@@ -3,25 +3,24 @@
 
 ---
 
-### 👨‍💻 Обо мне:
+<img align ="centre" src="https://media.tenor.com/1wswTEx2a1AAAAAC/anyone-hello.gif" height="200">
+
+
+### 👩‍💻 Обо мне:
 
 - 🌆 В тестирование пришла из сферы работы с недвижимостью
 - 🎓 Прошла курс обучения "Функциональное тестирование ПО" ⚡
 - 📰 Здесь можно ознакомиться с моим резюме
 - ✅ В настоящее время открыта для работы в качестве тестировщика программного обеспечения
 
-- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](verahome@internet.ru)
-
----
-
-### 🤝 Социальные сети:
+- 📫 Как связаться со мной: 
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    <a href="verahome@internet.ru" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="70" height="50" alt="Gmail" />
     </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    <a href="https://t.me/VMkulalaeva" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" alt="telegram" />
     </a>
   </div>
 
