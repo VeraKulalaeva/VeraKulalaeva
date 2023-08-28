@@ -3,7 +3,7 @@
 
 ---
 
-<img align ="centre" src="https://media.tenor.com/1wswTEx2a1AAAAAC/anyone-hello.gif" height="200">
+<img align ="center" src="https://media.tenor.com/1wswTEx2a1AAAAAC/anyone-hello.gif" height="170">
 
 
 ### 👩‍💻 Обо мне:
