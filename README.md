@@ -3,7 +3,7 @@
 
 ---
 
-<img align ="center" src="https://media.tenor.com/1wswTEx2a1AAAAAC/anyone-hello.gif" height="170">
+<img align="center" src="https://media.tenor.com/1wswTEx2a1AAAAAC/anyone-hello.gif" height="170">
 
 
 ### 👩‍💻 Обо мне:
@@ -90,5 +90,3 @@
 | netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
 
 --- -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=VeraKulalaeva)
