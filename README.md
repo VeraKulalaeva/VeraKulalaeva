@@ -16,7 +16,7 @@
 - 📫 Как связаться со мной: 
 
   <div id="badges">
-    <a href="verahome@internet.ru" target="_blank">
+    <a href="https://verahome@internet.ru" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="70" height="50" alt="Gmail" />
     </a>
     <a href="https://t.me/VMkulalaeva" target="_blank">
