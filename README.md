@@ -26,7 +26,7 @@
 
 ---
 
-###           Некоторые инструменты, которые я использую в работе:
+### Некоторые инструменты, которые я использую в работе:
 
 ### 📁 Тестовая документация:
 
@@ -82,6 +82,20 @@
 </div>
 
 ---
+
+<h2>Test Artifacts </h2>
+<p> 
+ <ul>
+<li>  <a href="https://github.com/VeraKulalaeva/Web_app_testing">Web app testing</a>  </li>
+<li>  <a href="https://github.com/VeraKulalaeva/API_testing_via_Postman"> API testing via Postman </a>   </li>
+<li> <a href="https://github.com/VeraKulalaeva/Database_testing">Database testing</a>   </li>
+<li>  <a href="https://github.com/VeraKulalaeva/Mobile_app_testing"> Mobile app testing</a>   </li>
+<li> <a href="https://github.com/VeraKulalaeva/Traffic_interception">Traffic interception via CharlesProxy</a>  </li>
+<li> <a href="https://github.com/VeraKulalaeva/Bush"> Bash </a>  </li>
+<li> <a href="https://github.com/VeraKulalaeva/Git"> Git </a> </li>
+</ul>
+</p>
+
 
 <!-- ### 💻 Пройденные курсы:
 
